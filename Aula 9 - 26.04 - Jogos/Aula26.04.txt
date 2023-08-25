@@ -1,0 +1,5 @@
+1° programa: jogo de adivinhação
+função rand
+C = Rand(50)
+
+2° programa: 

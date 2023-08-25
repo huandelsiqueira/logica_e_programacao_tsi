@@ -1,0 +1,37 @@
+exercicios aula de logica 05/04
+
+1- escreva um algoritmo para ler 3 valores e informar o maior deles. (fazer em chapin, PE e C)
+
+2- Utilize agora os operadores lógicos com o exercício acima. (fazer em chapin, PE e C)
+
+3- Escreva um algoritmo para ler 3 valores e informar a soma dos 2 maiores. (fazer em chapin, PE e C)
+
+4- Escreva um algoritmo para ler um valor e imprimir em qual tipo de faixa (cheia ou tracejada) ele se encontra.
+-Considere o limite dentro da linha cheia.
+-Utilize apenas um comando Se, então, Senão para cada exercício.
+-Apresente duas soluções diferentes para cada exercício.
+a)__________0.........
+b)..........80________
+c)_______-8.....25______
+d)......-5_______10.......25_______
+e)......10.......20.......30________ (considerar 10 e 20 em linha cheia)
+
+5- Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+alcool: até 20L --> desconto de 3% por L
+-acima de 20 L --> desconto de 5% por L
+gasolina: até 15L --> desconto de 3.5% por L
+-acima de 15L --> desconto de 6% por L
+ESCREVA UM ALGORITMO QUE LEIA O NÚMERO DE LITROS VENDIDOS, O TIPO DE COMBUSTÍVEL (CODIFICADO)
+DA SEGUINTE FORMA: 1-alcool, 2-gasolina
+Calcule e imprima o valor a ser pago pelo cliente, sabendo-se que o preço da gasolina é de R$5,60 o L
+e o álcool é de R$4,30 o L
+
+6(tema)- Escreva um algoritmo que leia o valor de três ângulos de um triângulo e escreva se o triângulo
+é acutângulo, retângulo ou obtusângulo.
+OBS.: triângulo retângulo: possui um ângulo reto.
+obtusangulo: possui angulo obtuso
+acutangulo: 3 anngulos agudos
+
+
+PROVA (03/05)
+LISTA (10/04 até o dia da prova, provavelmente)

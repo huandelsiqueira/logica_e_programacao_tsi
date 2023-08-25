@@ -1,0 +1,12 @@
+1.Escreva um program em c para ler um vetor x de 10 valores e um vetor m de 5 valores inteiros.
+Crie um vetor p de 15 elementos, cujo as 5 primeiras posições seja o vetor m e as 10 últimas o vetor x. Imrpima o vetor p.
+
+2.Ler um vetor v de 10 elementos. Troque a seguir o 1° com o último, o 2° com o antipenultimo, o 3° com o 4°, o 5° com o 6°. Imrpima o vetor v.
+
+3.Ler um vetor c de 10 elementos e uma variável v. Escreva a mensagem: "achei seu valor" se o valor em v estiver no vetor c e "nao achei", caso contrário.
+obs.: a mensagem deverá aparecer uma vez!
+
+4. Ler um vetor q de 10 elementos (aceitar somente números positivos). Escreva a seguir o valor do maior elemento de q e a respectiva posição que ele ocupa no vetor.
+
+5. Ler um vetor x de 10 elementos, a seguir, copie todos os valores negativos do vetor x para o vetor r (sem deixar elementos vazios entre os valores copiados).
+Escrever o vetor r.

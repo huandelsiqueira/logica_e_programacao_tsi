@@ -1,0 +1,58 @@
+REPETIÇÃO COM TESTE NO INÍCIO:
+
+Enquanto (condição) faça
+	<comando>
+Fimenquanto
+
+(variável deve estar primeiro)
+While (condição) {
+	<comando>
+}
+
+EXERCÍCIO 1: Escreva um algoritmo para ler duas (aceitar somente valores entre 0 e 10), calcular e escrever a média.
+Acrescente uma mensagem de novo cálculo 1=sim 2=nao Se == 1, responde novamente, caso contrário, encerra o algoritmo.
+Utilizar a estrutura de repetição com teste no início.
+
+REPETIÇÃO COM VARIÁVEL DE CONTROLE (for):
+Permite executar um trecho do algoritmo um número DEFINIDO de vezes. Este número é controlado através de uma variável
+de controle.
+
+Para (i) de (condição1) até (condição2) faça
+	<comando>
+Fimpara
+
+for (i=0; i<10; i++) /* Vai ler 10 valores */
+*i++ -> 'incremento'
+*variável de controle é SEMPRE INTEIRA.
+
+EXERCÍCIO 2: Escreva um algoritmo para ler 10 valores e escrever quantos são negativos.
+
+EXERCÍCIO 3: Escreva um algoritmo para escrever os números de 1 a 100 em ordem crescente.
+
+EXERCÍCIO 4: Escreva um algoritmo para escrever os números de 1 a 50 em ordem decrescente.
+
+EXERCÍCIO 5: Escreva um algoritmo que imprima os números de 100 até 200 de 10 em 10.
+
+EXERCÍCIO 6: Ler um valor n (aceitar somente valores maiores que zero para n) e imprimir todos os valores inteiros entre 1 e n, inclusive.
+
+EXERCÍCIO 7 (cai na prova): Escreva um algortimo para ler um valor inteiro (aceitar apenas valores entre 1 e 10) e escrever a tabuada de 1 a 10 do valor lido. (Utilizar FOR)
+
+=EXERCÍCIO 8: Ler o número de alunos existentes em uma turma, ler as notas desses alunos e calcular a média aritmética dessas notas.
+
+ACUMULADORES:
+Utilizados para obter somatórios.
+A <- A + x /* "x" é outra variável */
+
+DETERMINAÇÃO DO MAIOR E MENOR ELEMENTO DE "N" ELEMENTOS:
+
+=EXERCÍCIO 9: Ler 10 notas e escrever a maior e a menor nota lida.
+-Para determinar a maior: 
+	Inicializar a variável que representa o maior com o MENOR VALOR POSSÍVEL. /* nota = 0 */
+-Para determinar a menor:
+	Inicializar a variável que representa o menor com o MIAOR VALOR POSSÍVEL. /* nota = 10 */
+
+=EXERCÍCIO 10: Calcular e escrever o maior entre n valores lidos do teclado. O valor n será lido no teclado.
+
+=EXERCÍCIO 11: Ler 10 pares de dados contendo o sexo e a altura de uma turma de pessoas. Calcular a média das alturas dos homens e a média das alturas 	das mulheres.
+
+

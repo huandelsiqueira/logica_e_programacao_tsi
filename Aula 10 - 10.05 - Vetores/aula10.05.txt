@@ -1,0 +1,51 @@
+o que falta: vetores, matrizes e funções.
+
+VETORES: 
+Vetor é um conjunto de variáveis, cada uma podendo armazenar um valor como se fosse variáveis simples, mas todas elas compartilhando um nome EM COMUM.
+
+Como diferenciá-las?
+Índices são associados a este NOME COMUM parmitindo, assim, individualizar os elementos do conjunto.
+
+Ex: vetor "x" para armazenar 5 elementos.
+
+int x[5]; ==> "variável particionada".
+
+Operações básicas: Qualquer operação definida para uma variável simples é válida para um componente isolado de um vetor. Não é possível operar diretamente com o
+conjunto completo.
+
+VÁLIDO             	INVÁLIDO
+
+x[2] <- 25		Leia x
+Leia x[5]
+
+OBS.: O índice pode ser substituído por uma variável.
+y <- 3
+
+x[y] <- 8
+
+Leitura: é feita passo a passo um componente por vez usando a mesma instrução de entrada de dados (Leia variável). É utilizado uma instrução de repetição para fazer a 
+leitura de todos os elementos do vetor.
+
+for (i = 0; i <= 4; i++)
+	scanf("%d", &V[i]
+
+* Na linguagem C, o vetor deve começar em "0"(posição). 
+
+Escrita: é feita passo a passo um componente por vez usando a mesma instrução de saída de dados (Escreva variável). É utilizado uma instrução de repetição para fazer a
+escrita de todos os elementos do vetor.
+
+EXERCÍCIO 1: Escreva um algoritmo para ler 10 notas, calcular a média e contar quantas possuem nota acima desta média.
+
+EXERCÍCIO 2: Ler um vetor "x" de 10 elementos com os valores 1,2,3,4,5,6,7,8,9 e 10.
+
+EXERCÍCIO 3: Ler um vetor "C" de 10 elementos inteiros. Trocar todos os valores negativos por zero. Escrever o vetor "C" modificado.
+
+EXERCÍCIO 4: Ler um vetor "D" de 10 elementos. Crie um vetor "E" com todos os elementos de "D" (na mesma ordem). Escrever todo o vetor "D" e logo após todo o vetor "E".
+
+EXERCÍCIO 5: Ler um vetor "Z" de 10 elementos. Crie um vetor "W" com todos os elementos de "Z" (na ordem inversa). Escrever 
+
+EXERCÍCIO 6: Ler um vetor "A" de 10 elementos e um valor x. Conte e escreva quantas vezes o valor x ocorre no vetor "A".
+
+EXERCÍCIO 7: Ler um vetor "B" de 10 elementos e um valor x. Escreva as posições do vetor "B" em que aparece um valor igual a x.
+
+
